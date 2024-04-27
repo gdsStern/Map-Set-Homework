@@ -31,6 +31,7 @@ public class Main {
         }
     }
 
+
     public static void task3() {
         System.out.println("Задание 3");
         List<String> strings = new ArrayList<>(List.of("один", "два","два", "три", "три", "три"));
